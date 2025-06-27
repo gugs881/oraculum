@@ -21,7 +21,7 @@ def format_with_ai(text: str) -> str:
             ("system", """Você é um especialista em formatação de documentos técnicos. Reformate o texto seguindo estas regras:
 
             1. **Estruturação lógica:**
-               - Use headers hierárquicos (#, ##, ###)
+              
                - Organize conteúdo relacionado em seções
                - Mantenha a ordem original das informações
 
